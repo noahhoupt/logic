@@ -97,7 +97,9 @@ When given a sentench joined by a connector, the following relationships can be 
 
 ### Truth Trees
 Rules:
-| p & q | ~(p & q) | p 
+| p & q | ~(p & q) | p v q | ~(p v q) | p ⊃ q | ~(p ⊃ q) | p ≡ q | ~(p ≡ q) |
+|:--:  |:--:   |:--:  |:--:  |:--:  |:--:  |:--:  |:--:  |
+| p, q |→~p →~q|→p →q|~p, ~q|→~p →q|p, ~q|→p,q →~p,~q|→p,~q →~p,q
 
 ### Changing Rules
 
