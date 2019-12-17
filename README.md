@@ -24,21 +24,37 @@ The branch of symbolic logic that deals with the relationships formed between pr
 `A word or phrase used to connect two sentences, resulting in a new sentence`
 
 * Truth Functional:
-`The truth or falsity of a sentence, is determined solely by the truth or falsity of its parts`
+`The truth or falsity of a sentence. Is determined solely by the truth or falsity of its parts`
 
 * Argument:
+`A set of sentences, one of which is a conclusion`
 
 * Consistent:
+`If all sentences can be true at the same time`
 
 * Logically True:
+`there is no way for it to be false`
 
 * Valid:
+`there is no way for the premises to be true and the conclusion false`
 
 * Atomic Sentence:
+`a sentence with no smaller sentence as a part`
 
 * Antecedent/Consequent:
+`If A (antecedent), then B (consequent).`
 
 * Sentential Logic:
+`Basic unit is atomic sentences, using connectives`
+
+* Sound:
+`A test is sound if it gives no false positives`
+
+* Complete:
+`A test is complete if it gets all of the correct positives`
+
+* Effective:
+`A test is complete if it always gives an answer`
 
 
 
