@@ -97,6 +97,10 @@ When given a sentench joined by a connector, the following relationships can be 
 
 ### Truth Trees
 
+### Changing Rules
+
+### Proofs
+
 ## Predicate Logic
 
 ### Definitions
