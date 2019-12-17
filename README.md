@@ -97,7 +97,7 @@ When given a sentench joined by a connector, the following relationships can be 
 
 ### Truth Trees
 Rules:
-![alt text](truth-rules.JPG "Logo Title Text 1")
+![alt text](capture.JPG "Logo Title Text 1")
 
 ### Changing Rules
 
