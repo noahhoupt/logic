@@ -54,7 +54,7 @@ The branch of symbolic logic that deals with the relationships formed between pr
 `A test is complete if it gets all of the correct positives`
 
 * Effective:
-`A test is complete if it always gives an answer`
+`A test is effective if it always gives an answer`
 
 
 
@@ -87,15 +87,17 @@ explanation: go fishing (A) even though (&) buy soda (B)
 ### Truth Tables
 When given a sentench joined by a connector, the following relationships can be found by the truth table:
 
-| A  | B  |A & B|A v B|A ⊃ B|
-|:--:|:--:|:--: |:--: |:--: |
-| T  | T  | T   | T   | T   |
-| T  | F  | F   | T   | F   |
-| F  | T  | F   | T   | T   |
-| F  | F  | F   | F   | T   |
+| A  | B  | ~ A |A & B|A v B|A ⊃ B|
+|:--:|:--:|:--: |:--: |:--: |:--: |
+| T  | T  | F   | T   | T   | T   |
+| T  | F  | F   | F   | T   | F   |
+| F  | T  | T   | F   | T   | T   |
+| F  | F  | T   | F   | F   | T   |
 
 
 ### Truth Trees
+Rules:
+| p & q | ~(p & q) | p 
 
 ### Changing Rules
 
