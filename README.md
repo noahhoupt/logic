@@ -99,7 +99,7 @@ When given a sentench joined by a connector, the following relationships can be 
 Rules:
 | p & q | ~(p & q) | p v q | ~(p v q) | p ⊃ q | ~(p ⊃ q) | p ≡ q | ~(p ≡ q) |
 |:--:  |:--:   |:--:  |:--:  |:--:  |:--:  |:--:  |:--:  |
-| p, q |→~p →~q|→p →q|~p, ~q|→~p →q|p, ~q|→p,q →~p,~q|→p,~q →~p,q|
+| p, q |→-p →-q|→p →q|-p, -q|→-p →q|p, -q|→p,q →-p,-q|→p,-q →-p,q|
 
 ### Changing Rules
 
