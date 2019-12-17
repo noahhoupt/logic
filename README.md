@@ -6,14 +6,41 @@
     * Translations
     * Truth Tables
     * Truth Trees
+    * Changing Rules
+    * Proofs
 * Predicate Logic
     * Definitions
     * Translations
     * Truth Trees
 
 ## Sentential Logic
+The branch of symbolic logic that deals with the relationships formed between propositions by connectives such as and, or, and if as opposed to their internal structure.
 
 ### Definitions
+* Logical Equivalency: 
+`For each permutation of true and false for each sentence, the same truth value is derived`
+
+* Connective:
+`A word or phrase used to connect two sentences, resulting in a new sentence`
+
+* Truth Functional:
+`The truth or falsity of a sentence, is determined solely by the truth or falsity of its parts`
+
+* Argument:
+
+* Consistent:
+
+* Logically True:
+
+* Valid:
+
+* Atomic Sentence:
+
+* Antecedent/Consequent:
+
+* Sentential Logic:
+
+
 
 ### Translations
 You are given a sentence in English and asked to translate to Sentential Logic
@@ -42,6 +69,7 @@ explanation: go fishing (A) even though (&) buy soda (B)
 ```
 
 ### Truth Tables
+When given a sentench joined by a connector, the following relationships can be found by the truth table:
 
 | A  | B  |A & B|A v B|A ⊃ B|
 |:--:|:--:|:--: |:--: |:--: |
